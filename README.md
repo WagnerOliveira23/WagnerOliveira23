@@ -2,7 +2,8 @@
 
 - 👨🏻‍💻 Computer Science Student - PUC.
 - 📚 Exploring Programming Languages..
-- 🎮 Learning to Develop Games..
+- 🗝️ Learning to FullStack Development.
+- 🎮 Learning to Game Development..
 <div>
   <a href="https://github.com/WagnerOliveira23">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerOliveira23&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
